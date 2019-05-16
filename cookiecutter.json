@@ -1,0 +1,5 @@
+{
+    "repo_name": "myProj",
+    "package_name": "pypackage_minimal",
+    "package_description": "An opinionated, minimal cookiecutter template for Python packages"
+}
